@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.1.0*%
+%TF.CreationDate,2018-12-11T14:46:23Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Nick Szczecinski <nss36@case.edu>*%
+%TJ.B_ID,6x3analogMUX*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.671119*%
+%TJ.B_Size_X,37.770000*%
+%TJ.B_Size_Y,71.110000*%
+M02*
